@@ -1219,7 +1219,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Government of Canada Open Data](http://open.canada.ca/en)
 * [HIS Piers](https://www.ihs.com/products/piers.html)
 * [Human Development Reports](http://hdr.undp.org/en/global-reports)
-* [IDEA Databases](http://www.idea.int/resources/databases.cfm)
+* [IDEA Databases](https://www.idea.int/advanced-search)
 * [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm)
 * [International Trade Center](http://www.intracen.org/ByCountry.aspx)
 * [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
